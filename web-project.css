@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #336178;
+    color: #336178;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.wproject {
+    height: 5px;
+    background: rgba(0, 0, 0, 0.5);
+    margin: 40px 0;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Gabarito', sans-serif;
+}
+
+.logo-section {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo-section img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.logo-section p {
+    
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Gabarito', sans-serif;
+   text-align: center;
+ 
+
+}
+
+
+.header-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #336178;
+}
+
+.header-section img {
+    width: 80%;
+    max-width: 600px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.header-section p {
+    font-size: 18px;
+    color: white;
+    font-family: 'Gabarito', sans-serif;
+    font-weight: bold;
+}
+
+.footer-info {
+    text-align: center;
+    color: black;
+    font-size: 16px;
+}
+.navigation-website-project li, a {
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.navigation-website-project li{
+    color: white;
+    padding: 0px 20px;
+    display: inline-block;
+
+}
+
+
+.navigation-website-project li a{
+    display: block;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 1px;
+    text-align: center;
+}
+
+.navigation-website-project a:hover{
+    transform: scale(1.1);
+    color: #e1e6cb;
+
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10%;
+    background-color: #ae485e;
+}
+.logo{
+    cursor: pointer;
+    width: 140px;
+}
+
+.codecademy-links {
+    color:#fff;
+    list-style: none;
+    font-size: 18px;
+    text-align: center;
+}
+.profiles {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+#Turan:hover {
+    text-decoration:underline; 
+}
+
+#Khadija:hover {
+    text-decoration:underline; 
+}
+
+#Kanan:hover {
+    text-decoration:underline; 
+}
+
+#Ulvi:hover {
+    text-decoration:underline; 
+}
+
+.wproject2 {
+    height: 5px;
+    background: rgba(0, 0, 0, 0.5);
+    margin: 40px 0;
+}
